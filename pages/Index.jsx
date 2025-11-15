@@ -36,7 +36,7 @@ const Index = () => {
           <div className="hero-content text-white flex flex-col gap-10 lg:gap-20 mt-110">
             <header>
               <h1 className="font-bold capitalize text-[3.6rem] md:text-[4.8rem] lg:text-[6.8rem] leading-15">
-                the light concepts
+                NERIAH Photography
               </h1>
             </header>
             <p className="text-[1.6rem] max-w-280 mx-auto leading-[1.4] md:text-[2rem]">
