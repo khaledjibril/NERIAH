@@ -1,4 +1,4 @@
-I'mimport { CiCamera } from "react-icons/ci";
+import { CiCamera } from "react-icons/ci";
 import { Link } from "react-router-dom";
 
 const Logo = ({ path }) => {
